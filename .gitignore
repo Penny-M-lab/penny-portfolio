@@ -1,1 +1,14 @@
 token.txt
+private-docs/
+.env
+.env.local
+*.token
+tokens.txt
+gittoken.txt
+.venv/
+__pycache__/
+**/__pycache__/
+build/
+dist/
+contributions/
+contributions
